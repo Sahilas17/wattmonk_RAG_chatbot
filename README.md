@@ -1,1 +1,1 @@
-# wattmonk_RAG_chatbot
+# Wattmonk_RAG_chatbot
